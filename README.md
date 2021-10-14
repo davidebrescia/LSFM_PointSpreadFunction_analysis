@@ -11,7 +11,7 @@ This software helps you in deducing the PSF spread in the different areas of the
 ## GUI
 ![image](https://user-images.githubusercontent.com/92381157/137388131-5932d943-f391-4f27-aaa2-eaf8dd03614b.png)
 
-## Stack of beads on the Microscope
+## 3D stack of beads
 ![image](https://user-images.githubusercontent.com/92381157/137388427-4009fc5a-b71e-4879-8b1b-c69edd7341fb.png)
 
 ## Zoom on a bead
@@ -21,7 +21,10 @@ This software helps you in deducing the PSF spread in the different areas of the
 ![image](https://user-images.githubusercontent.com/92381157/137388654-20c28d52-2829-4862-a47d-1e389b557c7f.png)
 
 ## Computed PSF
+Front view:
 ![image](https://user-images.githubusercontent.com/92381157/137388743-512eb371-68fb-4acf-8d2d-ca3a9530d719.png)
+
+Top view:
 ![image](https://user-images.githubusercontent.com/92381157/137388754-de5c0619-1d16-48e2-93bf-1bdb8941a4bb.png)
 
  
