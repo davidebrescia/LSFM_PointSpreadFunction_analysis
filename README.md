@@ -21,10 +21,10 @@ This software helps you in deducing the PSF spread in the different areas of the
 ![image](https://user-images.githubusercontent.com/92381157/137388654-20c28d52-2829-4862-a47d-1e389b557c7f.png)
 
 ## Computed PSF
-Front view:
+Front view:  
 ![image](https://user-images.githubusercontent.com/92381157/137388743-512eb371-68fb-4acf-8d2d-ca3a9530d719.png)
 
-Top view:
+Top view:  
 ![image](https://user-images.githubusercontent.com/92381157/137388754-de5c0619-1d16-48e2-93bf-1bdb8941a4bb.png)
 
  
