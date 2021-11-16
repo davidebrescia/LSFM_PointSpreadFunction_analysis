@@ -1,6 +1,6 @@
 # Point Spread Function analysis in Light Sheet Fluorescence Microscopes
 
-Who doesn't have a Light Sheet Fluorescence Microscope nowadays?  
+Who doesn't have a Light Sheet Fluorescence Microscope at home nowadays?  
 This software helps you in deducing the PSF spread in the different areas of the stack. 
 
 ## Instructions
